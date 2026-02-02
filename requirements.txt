@@ -16,6 +16,9 @@ xgboost==2.0.3
 lightgbm==4.3.0
 tensorflow==2.15.0
 
+# Web Application
+streamlit==1.31.0
+
 # Visualization
 matplotlib==3.8.2
 seaborn==0.13.1
